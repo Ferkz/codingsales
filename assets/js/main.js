@@ -27,7 +27,7 @@ function myMenuFunction(){
     }
   }
  var typingEffect = new Typed(".typedText",{
-    strings : ["Designer","Estudante","Programador"],
+    strings : ["Progamador","Engenheiro de software","Desenvolvedor Angular"],
     loop : true,
     typeSpeed : 100, 
     backSpeed : 80,
